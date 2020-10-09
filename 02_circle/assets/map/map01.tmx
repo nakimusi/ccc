@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="20" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="bg_01" tilewidth="64" tileheight="64">
+  <image source="bg_01.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="2" name="bg_02" tilewidth="64" tileheight="64">
+  <image source="bg_02.png" width="64" height="64"/>
+ </tileset>
+ <layer name="_tmLayerGroup" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYmBgYARiJirR1DSLicpmjbpv1H2j7ht136j7qEcDAF5ZAlk=
+  </data>
+ </layer>
+ <objectgroup name="_tmLayerObstacle">
+  <object name="tree01" x="1153.92" y="479.625">
+   <polyline points="0,0 19.875,15.5 58.125,4.125 32.75,-11.375 0.0527778,-0.0583333"/>
+  </object>
+  <object name="tree02" x="196.909" y="601.273">
+   <polyline points="0,0 34.375,28.125 113.875,9.05682 69.2955,-11.0114 0.0527778,-0.0583333"/>
+  </object>
+  <object name="tree01" x="514" y="734">
+   <polyline points="0,0 19.875,15.5 58.125,4.125 32.75,-11.375 0.0527778,-0.0583333"/>
+  </object>
+  <object name="mountain01" x="661.667" y="1174.33">
+   <polyline points="-1,-9 125.333,3.83333 147,93 345,94 348,-160 276.667,-171.667 260,-263 1,-265 -0.666667,-11.3333"/>
+  </object>
+  <object name="mountain02" x="225" y="1018.33">
+   <polyline points="0,0 100,-0.666667 101.333,-129.333 1.33333,-129.333 -5.68434e-14,-0.666667"/>
+  </object>
+  <object name="mountain03" x="133" y="442">
+   <polyline points="0,0 208.333,-4 216,-119.667 238,-161.667 238.667,-258 161.333,-255.667 110.333,-215 -1.66667,-212.333 0,0"/>
+  </object>
+  <object name="mountain02" x="778" y="482">
+   <polyline points="0,0 100,-0.666667 101.333,-129.333 1.33333,-129.333 -5.68434e-14,-0.666667"/>
+  </object>
+  <object name="tree02" x="968" y="218">
+   <polyline points="0,0 34.375,28.125 113.875,9.05682 69.2955,-11.0114 0.0527778,-0.0583333"/>
+  </object>
+  <object name="tree01" x="260" y="1239">
+   <polyline points="0,0 19.875,15.5 58.125,4.125 32.75,-11.375 0.0527778,-0.0583333"/>
+  </object>
+  <object name="tree01" x="833" y="677">
+   <polyline points="0,0 19.875,15.5 58.125,4.125 32.75,-11.375 0.0527778,-0.0583333"/>
+  </object>
+  <object name="tree01" x="642" y="224">
+   <polyline points="0,0 19.875,15.5 58.125,4.125 32.75,-11.375 0.0527778,-0.0583333"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="_tmLayerBorn" visible="0">
+  <object x="85.3333" y="88" width="17.3333" height="17.3333">
+   <ellipse/>
+  </object>
+  <object x="80" y="602.667" width="14.6667" height="18.6667">
+   <ellipse/>
+  </object>
+  <object x="92" y="1174.67" width="13.3333" height="14.6667">
+   <ellipse/>
+  </object>
+  <object x="1166.67" y="1176" width="17.3333" height="13.3333">
+   <ellipse/>
+  </object>
+  <object x="1177.67" y="91" width="14.6667" height="14.6667">
+   <ellipse/>
+  </object>
+  <object x="1169.33" y="604" width="20" height="16">
+   <ellipse/>
+  </object>
+  <object x="590.667" y="1174.67" width="20" height="16">
+   <ellipse/>
+  </object>
+  <object x="662.667" y="86.6667" width="20" height="16">
+   <ellipse/>
+  </object>
+  <object name="player" x="544" y="592" width="14.6667" height="25.3333">
+   <ellipse/>
+  </object>
+ </objectgroup>
+</map>

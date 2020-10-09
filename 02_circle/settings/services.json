@@ -1,0 +1,24 @@
+{
+	"game": {
+		"name": "跑圈圈",
+		"appid": "681723020",
+		"cid": "0"
+	},
+	"configs": [
+		{
+			"appid": "681723020",
+			"services": [
+				{
+					"service_id": "235",
+					"enable": true,
+					"params": {
+						"appid": "681723020",
+						"storeid": "wechat",
+						"plugin_version": "1.2.9_2.2.0"
+					}
+				}
+			]
+		}
+	],
+	"needExecNative": true
+}

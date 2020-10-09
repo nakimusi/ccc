@@ -1,0 +1,1 @@
+yyp.config.ADConfig = {"bannerBottom":{"Type":"bannerBottom","Use":1,"WxAdid":"adunit-a51a5308a6b72bdf","MaxHeight":100},"bannerTop":{"Type":"bannerTop","Use":0,"WxAdid":"0","MaxHeight":130},"insert":{"Type":"insert","Use":1,"WxAdid":"adunit-db1ec040bc43c0ff","MaxHeight":0},"reward":{"Type":"reward","Use":1,"WxAdid":"adunit-b53b432721dc6d04","MaxHeight":0}};
