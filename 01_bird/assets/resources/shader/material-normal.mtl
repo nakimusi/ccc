@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.Material",
+  "_name": "material-normal",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "d5d9535a-442c-4398-ab49-a912f788374e"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "defines": {
+        "USE_TEXTURE": true
+      }
+    }
+  }
+}

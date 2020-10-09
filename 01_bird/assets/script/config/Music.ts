@@ -1,0 +1,1 @@
+﻿yyp.config.Music = {"die":{"Type":"die","Path":"sfx_die","Genre":1,"PlayOnload":0},"hit":{"Type":"hit","Path":"sfx_hit","Genre":1,"PlayOnload":0},"point":{"Type":"point","Path":"sfx_point","Genre":1,"PlayOnload":0},"swooshing":{"Type":"swooshing","Path":"sfx_swooshing","Genre":1,"PlayOnload":0},"wing":{"Type":"wing","Path":"sfx_wing","Genre":1,"PlayOnload":0}};

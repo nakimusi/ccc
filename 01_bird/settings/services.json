@@ -1,0 +1,24 @@
+{
+	"game": {
+		"name": "命悬一线",
+		"appid": "682608663",
+		"cid": "0"
+	},
+	"configs": [
+		{
+			"appid": "682608663",
+			"services": [
+				{
+					"service_id": "235",
+					"enable": false,
+					"params": {
+						"appid": "682608663",
+						"storeid": "wechat",
+						"plugin_version": "1.2.9_2.2.0"
+					}
+				}
+			]
+		}
+	],
+	"needExecNative": true
+}
